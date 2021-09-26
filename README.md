@@ -1,5 +1,5 @@
 <div align="center">
-  <img src=".github/static/logo.png" alt="fundamentus logo" height="15px">
+  <img src=".github/static/logo.png" alt="fundamentus logo" height="35px">
   <div><code>npm install fundamentus --save</code></div>
   <br>
   <p>
