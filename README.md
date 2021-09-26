@@ -1,5 +1,5 @@
 <div align="center">
-  <img src=".github/static/logo.png" alt="fundamentus logo" height="35px">
+  <img src=".github/static/logo.png" alt="fundamentus logo" height="40px">
   <div><code>npm install fundamentus --save</code></div>
   <br>
   <p>
@@ -7,7 +7,7 @@
   </p>
   <p>
 
-
+[![Maintainability](https://api.codeclimate.com/v1/badges/67e05f0d008dbe7fb452/maintainability)](https://codeclimate.com/github/lfreneda/fundamentus/maintainability)
 
   </p>
   <small>
